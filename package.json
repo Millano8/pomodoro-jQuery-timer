@@ -1,0 +1,17 @@
+{
+  "name": "pomodoro-jquery-timer",
+  "description": "A classic Pomodoro timer with customizabe work and break times.",
+  "version": "1.0.0",
+  "engines": {
+    "node": "^6.11.1"
+  },
+  "scripts": {
+    "start": "npx node server.js"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "serve-favicon": "^2.3.2"
+  }
+}
